@@ -1,0 +1,21 @@
+.background{
+  background-color: teal;
+}
+  
+  .container {
+    position: relative;
+    text-align: left;
+  }
+  
+  .center{
+       display:block;
+       margin-left: auto;
+       margin-right: auto;
+       width: 500px;
+  }
+
+  h1:hover {
+    color: lightgray;
+  }
+  
+  
